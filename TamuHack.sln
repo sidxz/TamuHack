@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{69D75A0B-B4E6-48EE-A050-A1D6754765B0}") = "TamuHack", "Assembly-CSharp-firstpass.csproj", "{983D7220-D441-CFD8-E625-0A256C3DF2D9}"
+EndProject
+Project("{69D75A0B-B4E6-48EE-A050-A1D6754765B0}") = "TamuHack", "Assembly-CSharp.csproj", "{0A80337A-357C-50A8-59EA-8E6E1E85CB05}"
+EndProject
+Project("{69D75A0B-B4E6-48EE-A050-A1D6754765B0}") = "TamuHack", "Assembly-CSharp-Editor.csproj", "{BF349FA2-460C-1541-1122-D4FDFCB3B783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983D7220-D441-CFD8-E625-0A256C3DF2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983D7220-D441-CFD8-E625-0A256C3DF2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983D7220-D441-CFD8-E625-0A256C3DF2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983D7220-D441-CFD8-E625-0A256C3DF2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A80337A-357C-50A8-59EA-8E6E1E85CB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A80337A-357C-50A8-59EA-8E6E1E85CB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A80337A-357C-50A8-59EA-8E6E1E85CB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A80337A-357C-50A8-59EA-8E6E1E85CB05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF349FA2-460C-1541-1122-D4FDFCB3B783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF349FA2-460C-1541-1122-D4FDFCB3B783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF349FA2-460C-1541-1122-D4FDFCB3B783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF349FA2-460C-1541-1122-D4FDFCB3B783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -2,3 +2,6 @@ sceneSetups:
 - path: Assets/Scenes/Outdoor.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Book-Page Curl/Example/scenes/Example_2_Controled Flipping.unity
+  isLoaded: 1
+  isActive: 0
